@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{glossaries}
+\usepackage[usenames, dvipsnames]{color}
+
+
+\makeglossaries
+
+\newglossaryentry{latex}
+{
+	name=latex,
+	description={Is a mark up language specially suited 
+		for scientific documents}
+}
+
+\newglossaryentry{maths}
+{
+	name=mathematics,
+	description={Mathematics is what mathematicians do}
+}
+
+\title{Die Welt der Medien in den 20.Jahrhundert im Vergleich zu heute}
+\author{Kotsakiachidis Giannis }
+\date{\today }
+
+\begin{document}
+	\maketitle
+	
+
+	\renewcommand{\baselinestretch}{1.5} 
+	
+	{\large Heutzutage, die Medien haben sich schnell entwickelt und sie sind ein großer Teil unseres Lebens. Sollten sie allerdings sein?
+	Schauen wir uns an, wie die Welt der Medien in den 20.Jahrhundert im Vergleich zu heute war.
+	
+	Als allerestes, der Alltag sehr unterschiedlich war, man lernt die Nahrichten mehr durch Zeitungen statt Smartphones. Außerdem, man könnte in ein lokales Cafe gehen, um seinen Zeitungen zu lesen und mit anderen Menschen über dieses Nahrichten diskutieren. Internet gab es nicht. Wenn man also eine Recherche machen mussten, sollt er in die lokale Bibliotek gehen und einige Bücher als seine Quellen finden. Obwohl, war die Fehlinformation weniger als in der heutigen Zeit, in der jeder schreiben kann, dass er im Internet sein will. Jedoch, war das Studieren für ein Student sehr schwierig, weil er viele Bücher und andere Quelle hattet, um zu lesen. Das Internet bietet Unmittelbarkeit. Man kann Zugriff von überall haben und das ist sehr hilfsbereit.
+	
+	Kommunikation. Es ist etwas, das unser Leben mit neuen Medien erleichtert hat. Früher, waren nicht nur die Handys, aber auch das Internet. Das bedeutet, dass man nur mit Mail oder dem Heimtelefon kommunizierten könnte. Wenn man draußt ist und sofort mit jemandem sprechen müsst, er ein Heimtelefon brauchtet zu finden. Weiterhin, war die Kommunikation mit Menschen von anderen Ländern sehr schwierig und auch teuer. Damit nutzt man die Post als Kommunikationsmedium.
+	
+	Zusammenfassend, ist der Unterschied in digitalen Medien zwischen heute und vor 50 Jahren erkennbar. Mein Standpunkt zu diesem Thema ist, dass die Entwicklung der Technologie uns sehr geholfen hat, um Entfernungen zu reduzieren. Aber, dies hat viele Unsicherheiten geschaffen und wir werden zunehmend introvertierte.}
+	
+
+	
+
+
+	
+\end{document}
